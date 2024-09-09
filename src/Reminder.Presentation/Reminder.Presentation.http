@@ -1,0 +1,6 @@
+@Reminder.Presentation_HostAddress = http://localhost:5111
+
+GET {{Reminder.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
